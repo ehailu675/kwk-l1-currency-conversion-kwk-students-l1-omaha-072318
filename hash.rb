@@ -12,5 +12,5 @@ items = {
   "crocs" => 35
 }
 items["iphone"] = 800.50
-items[]
+items["ACT prep book"] = 15
 puts items
