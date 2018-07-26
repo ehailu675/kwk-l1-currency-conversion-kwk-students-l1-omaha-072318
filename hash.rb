@@ -12,4 +12,5 @@ items = {
   "crocs" => 35
 }
 items["iphone"] = 800.50
+items[]
 puts items
