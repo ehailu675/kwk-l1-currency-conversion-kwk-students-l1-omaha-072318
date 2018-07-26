@@ -5,4 +5,4 @@
 items = { }
 items["24K Magic"] = 15.98
 items["crocs"] = 35
-puts items
+puts items["24K Magic"]
