@@ -2,7 +2,7 @@
 # puts about_me_hash["name"]
 # puts about_me_hash
 
-items = { }
-items["24K Magic"] = 15.98
-items["crocs"] = 35
-puts items["24K Magic"]
+# items = { }
+# items["24K Magic"] = 15.98
+# items["crocs"] = 35
+# puts items["24K Magic"]
