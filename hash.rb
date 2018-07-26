@@ -7,3 +7,9 @@
 # items["crocs"] = 35
 # puts items["24K Magic"]
 
+items = {
+  "24K_Magic" => 15.98,
+  "crocs" => 35
+}
+items["iphone"] = 800.50
+puts items
